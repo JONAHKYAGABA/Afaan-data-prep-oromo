@@ -10,10 +10,10 @@ WANDB_API_KEY = os.getenv("WANDB_API_KEY")
 # login(HF_API_TOKEN)
 
 # from wandb import login as wandb_login
-# wandb_login(key=WANDB_API_KEY)
+# wandb_login()
 
 # Replace the following line:
-# login("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")
+# login("")
 # with:
 # login(HF_API_TOKEN)
 
